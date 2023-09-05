@@ -13,7 +13,7 @@ pkg install bs4
 
 pkg install git
 
-git clone git clone https://github.com/HHH292/FILE_CRACK
+git clone https://github.com/HHH292/FILE_CRACK
 
 cd FILE_CRACK
 
